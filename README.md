@@ -4,5 +4,4 @@ Projemiz hala yapım aşamasında olduğu için dikkat edilmesi gerekenler hakk�
 Datebase kısmında sadece giriş ol ve kayıt ol var başka bir aşamaya henüz geçemedik.
 Tasarım ve görselde her her şey eksiksiz bir şekilde tamamladık 
 Projemiz bitmiş olsaydı tabiki bir
- çok dikkat edilmesi gereken husus var ama gizlilik konusu önemli 
-Kodlama kısmı olmadan hiç bir şey yürümez bilgi eksikliğim fazla 
+ çok dikkat edilmesi gereken husus var ama gizlilik konusu ve kodlama olarak yapacağımız yerlerde çok eksiğim var 
